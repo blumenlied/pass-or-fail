@@ -13,7 +13,6 @@ The Intelligent Student Performance Predictor is a web-based application designe
 - [Backend Setup & Running](#backend-setup--running)
 - [Frontend Setup & Running](#frontend-setup--running)
 - [Usage](#usage)
-- [License](#license)
 
 ## Features
 
